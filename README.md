@@ -1,10 +1,10 @@
-## Lel
-You can use the [editor on GitHub](https://github.com/CactusBro74/spaceship/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Story Stuff (I'm too lazy to make a real title for it)
+As you cruise through the vast infinity of space, you see a looming shadow in front of you. They've found you. The Jynaphive, the alien race that has been pursuing you relentlessly, is finally bringing the full force of their military upon you. There's nowhere to run, nowhere to hide, and only one other choice - fight.
 
 ### Markdown
-
+Game functions with both an XBox 360 controller and a keyboard. 
+XBox 360 Controller:
+  
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
