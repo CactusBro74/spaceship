@@ -67,7 +67,7 @@ The invincibility powerup currently does not work. Shots pass straight throught 
 Currently, if you destroy the entire fleet, nothing happens. Soon an update will come allowing waves to spawn. Each of these "levels" has an increased bombrate (ships shoot lasers more often)
 
 ## Sources
-1. [Space Shooter Extension](https://opengameart.org/content/space-shooter-extension-250)
-1. I'm not sure what the link is, but the same creator of the extension above also made the base pack.
-1. [Background](https://simple.wikipedia.org/wiki/Outer_space)
+1. Some elements of [Space Shooter Extension](https://opengameart.org/content/space-shooter-extension-250) were used
+1. Some elements of [Space Shooter Redux](https://kenney.nl/assets/space-shooter-redux) were used.
+1. Link to the game's [background](https://simple.wikipedia.org/wiki/Outer_space)
 
