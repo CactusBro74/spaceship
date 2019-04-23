@@ -3,12 +3,12 @@ Welcome to Spaceship!
 Spaceship is a pretty simple game. Shoot enemies, but don't get shot.
 As soon as it is actually coded, Spaceship will be an infinitely generating game of mayhem.
 
-![Title Screen](https://raw.githubusercontent.com/CactusBro74/spaceship/maseter/TitleScreen.png)
+![Title Screen](https://raw.githubusercontent.com/CactusBro74/spaceship/master/TitleScreen.png)
 
 ## Story
 As you cruise through the vast infinity of space, you see a looming shadow in front of you. They've found you. The Jynaphive, the alien race that has been pursuing you relentlessly, is finally bringing the full force of their military upon you. There's nowhere to run, nowhere to hide, and only one other choice - fight.
 
-![Gameplay](https://raw.githubusercontent.com/CactusBro74/spaceship/maseter/Gameplay.png)
+![Gameplay](https://raw.githubusercontent.com/CactusBro74/spaceship/master/Gameplay.png)
 
 ## Game Controls
 The game functions with both an XBox 360 controller and with a keyboard.
