@@ -41,9 +41,9 @@ In the middle of the game, a UFO will cross the screen. Destroying this UFO gran
 1. The player ship starts at the bottom of the screen.
 1. Whenever the spacebar is pressed, the ship shoots a red laser.
 1. The player ship has a total of 5 shield points.
- 1. Each hit taken by the player ship removes one shield point.
- 1. This is indicated by the shield meter and percentage listed at the bottom-left of the screen.
- 1. When your shield is at 0%, a damaged ship image is overlayed and one more hit will kill you.
+  1. Each hit taken by the player ship removes one shield point.
+  1. This is indicated by the shield meter and percentage listed at the bottom-left of the screen.
+  1. When your shield is at 0%, a damaged ship image is overlayed and one more hit will kill you.
 
 ## Powerups
 Powerups will randomly fall from the top of the screen every once in a while.
