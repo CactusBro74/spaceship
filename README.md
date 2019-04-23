@@ -2,6 +2,7 @@
 Welcome to Spaceship!
 Spaceship is a pretty simple game. Shoot enemies, but don't get shot.
 As soon as it is actually coded, Spaceship will be an infinitely generating game of mayhem.
+
 ![Title Screen](https://raw.githubusercontent.com/CactusBro74/spaceship/maseter/TitleScreen.png)
 
 ## Story
